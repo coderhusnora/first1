@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.h1{
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+.button{
+    text-align: center;
+    padding: 10px;
+    
+}
+.oq{
+    width: 30%;
+    background-color: white;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+.taom{
+    background-color: chocolate;
+    color: white;
+    border: 2px solid chocolate;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.knopka{
+    text-align: center;
+    background-color: white;
+}
+.knopka2{
+    border: 2px solid red;
+    color: red;
+    font-size: 30px;
+    margin: 30px;
+}
+.head {
+    text-align: center;
+    padding: 30px;
+    background-image: url(chef.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
